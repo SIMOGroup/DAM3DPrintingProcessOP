@@ -1,5 +1,5 @@
 # Introduction
-we propose a new data-driven machine learning platform for predicting optimised parameters of the 3D printing process from a model design to a complete product.
+We propose a new data-driven machine learning platform for predicting optimised parameters of the 3D printing process from a model design to a complete product.
 
 Structure of DAM3DPrintingProcessOP package: 
 1. PCEn_CantileverBeam & PCEn_CylinderHollowPlate & PCEn_CooksMembrane: main programs for running 2D solids. 
