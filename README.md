@@ -17,4 +17,5 @@ Structure of DAM3DPrintingProcessOP package:
 - Thanh Q Nguyen
 
 # References
-Phuong Dong Nguyen, Thanh Q Nguyen, QB Tao, Frank Vogel, H Nguyen-Xuan, A data-driven machine learning approach for the 3D printing process optimisation, Virtual and Physical Prototyping, in press, https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2068446
+[1] Phuong Dong Nguyen, Thanh Q Nguyen, QB Tao, Frank Vogel, H Nguyen-Xuan, A data-driven machine learning approach for the 3D printing process optimisation, Virtual and Physical Prototyping, in press, https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2068446
+[2] Thang Le-Duc, Quoc-Hung Nguyen, Jaehong Lee, H Nguyen-Xuan, Strengthening Gradient Descent by Sequential Motion Optimization for Deep Neural Networks, IEEE Transactions on Evolutionary Computation, in press, https://ieeexplore.ieee.org/abstract/document/9766043
